@@ -51,7 +51,7 @@ My wish is to inspire like-minded Makers (& Marmots) to get onboard with IoT and
 ###Requirements / Costs
 
 ####One Time Costs
-I would need a more functional computer. I believe I could make do with a Chromebook - I would be turning it into a dev machine along the lines of what [CodeStarter is doing for students](CodeStarter is doing for students). Prices range from $200-$400 for basic models unless you can get them on sale. For my purposes, the more ram, the better.
+I would need a more functional computer. I believe I could make do with a Chromebook - I would be turning it into a dev machine along the lines of what [@Codestarterorg is doing for students](blog.codestarter.org/post/93985346780/how-we-turn-199-chromebooks-into-ubuntu-based). Prices range from $200-$400 for basic models unless you can get them on sale. For my purposes, the more ram, the better.
 
 A bed would be nice and would greatly increase my productivity. I'd be happy with a futon mattress from Walmart/Overstock (only thing comfortable that will fit in my room). Cost ranges from $130-$300 depending on availability.
 
