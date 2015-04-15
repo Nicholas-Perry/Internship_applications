@@ -2,7 +2,7 @@
 
 ##Project Vulcan
 
-###To create a proof-of-concept Internet of Things (IoT) network showcasing Eris Industries' systems. 
+###A proof-of-concept Internet of Things (IoT) network showcasing Eris Industries' systems. 
 
 The main goal of this project is to create a simple monitoring/control website running on top of Eris's Decerver that is able to interact with IoT devices. Eris's blockchain tech will also be used to manage the exchange (transaction) of messages between various sensor, displays, and actuators. The proof-of-concept should allow for a decentralized way to manage a large and distributed 'Internet of Things'.
 
