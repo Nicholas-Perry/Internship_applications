@@ -2,7 +2,7 @@
 
 ###To create a proof-of-concept Internet of Things (IoT) network showcasing Eris Industries' systems. 
 
-The main goal of this project is to create a simple monitoring/control website running on top of the Eris's Decerver that is able to interact with IoT devices. Eris's blockchain tech will further be used to manage the exchange (transaction) of messages between various sensor, displays, and actuators and allow for a decentralized way to manage a large and distributed 'Internet of Things'.
+The main goal of this project is to create a simple monitoring/control website running on top of Eris's Decerver that is able to interact with IoT devices. Eris's blockchain tech will further be used to manage the exchange (transaction) of messages between various sensor, displays, and actuators and allow for a decentralized way to manage a large and distributed 'Internet of Things'.
 
 The project is a security minded modernization of my senior project team's 'smartHAuS' originating out of my degree work at Vermont Technical College. I will also be taking heavy influence from a subsequent project I was developing at Praetor Labs internally known as [Shardonnay](https://workflowy.com/s/493ab350-f171-d9c0-6ef1-f50c68ca65a6) as it ended up having a distributed resource model as our primary goal. WHile were using [a cluster of ShuttlePCs](http://imgur.com/u31YJHO) at the time, small form factor embedded devices was our target platform.
 
