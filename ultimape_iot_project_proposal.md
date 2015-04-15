@@ -2,9 +2,9 @@
 
 ###To create a proof-of-concept Internet of Things (IoT) network showcasing Eris Industries' systems. 
 
-The main goal of this project is to create a simple monitoring/control website running on top of the Eris's Decerver that is able to interact with these devices. Eris's blockchain tech will further be used to manage the exchange (transaction) of messages between various sensor, displays, and actuators and allow for a decentralized way to manage a large and distributed 'Internet of Things'.
+The main goal of this project is to create a simple monitoring/control website running on top of the Eris's Decerver that is able to interact with IoT devices. Eris's blockchain tech will further be used to manage the exchange (transaction) of messages between various sensor, displays, and actuators and allow for a decentralized way to manage a large and distributed 'Internet of Things'.
 
-The project is a security minded modernization of my team's senior project 'smartHAuS' originating out of my degree work at Vermont Technical College. I will be taking heavy influence from a subsequent project I was developing at Praetor Labs internally known as [Shardonnay](https://workflowy.com/s/493ab350-f171-d9c0-6ef1-f50c68ca65a6) as it ended up having a distributed resource model as our primary goal. We were using [a cluster of ShuttlePCs](http://imgur.com/u31YJHO) to simulate the project at the time.
+The project is a security minded modernization of my senior project team's 'smartHAuS' originating out of my degree work at Vermont Technical College. I will also be taking heavy influence from a subsequent project I was developing at Praetor Labs internally known as [Shardonnay](https://workflowy.com/s/493ab350-f171-d9c0-6ef1-f50c68ca65a6) as it ended up having a distributed resource model as our primary goal. WHile were using [a cluster of ShuttlePCs](http://imgur.com/u31YJHO) at the time, small form factor embedded devices was our target platform.
 
 The project would leverage Eris' smart contracts to govern five key areas:
 
@@ -45,24 +45,23 @@ My wish is to inspire like-minded Makers (& Marmots) to get onboard with IoT and
  1. I love this stuff.
  2. You might be willing to feed me so I can work on it.
  3. [I have no idea what I'm doing](https://twitter.com/ultimape/status/588302547376545793).
+ 4. I enjoy learning.
 
 
 ###Requirements / Costs
 
 ####One Time Costs
-I would need a more functional computer. I believe I could make do with a Chromebook - I would be turning it into a dev machine along the lines of what [CodeStarter is doing for students](
-CodeStarter is doing for students)
-. Prices range from $200-$400 for basic models unless you can get them on sale. For my purposes, the more Ram, the better.
+I would need a more functional computer. I believe I could make do with a Chromebook - I would be turning it into a dev machine along the lines of what [CodeStarter is doing for students](CodeStarter is doing for students). Prices range from $200-$400 for basic models unless you can get them on sale. For my purposes, the more ram, the better.
 
 A bed would be nice and would greatly increase my productivity. I'd be happy with a futon mattress from Walmart/Overstock (only thing comfortable that will fit in my room). Cost ranges from $130-$300 depending on availability.
 
-I would need a couple of IoT oriented embedded systems. Two would be the minimum for a proof of concept however I'd love to have a set of six. Two to act as IoT devices, three to act as extra nodes for the distributed server host, and one to simulate a 3rd party connection. So anywhere from $100-$500 depending on quantity, model, accessories and shipping costs.
+I would need a couple of IoT oriented embedded systems. Two would be the minimum for a proof of concept however I'd love to have a set of six. Two to act as IoT devices, three to act as extra nodes for the distributed server host, and one to simulate a 3rd party connection. So anywhere from $100-$500 depending on quantity, model, accessories and shipping costs. This includes components to integrate with hardware I already own.
 
 
 ####Monthly Reoccurring
 There may be room at a local co-working space, which would run about $300 a month.
 
-My current living arrangement has my rent set at 1/3 of my income. I am not sure if a stipend is counted.
+My current living arrangement has my rent set at 1/3 of my income. I am not sure if a stipend is counted, so that will need to be factored in.
 
 I can live on $300 a month for food. I could go cheaper, but my current living situation leaves me without a lot of storage space and little ability to buy in bulk. I am not sure if I would be able to maintain my food stamps during the internship.
 
