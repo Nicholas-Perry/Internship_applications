@@ -48,6 +48,8 @@ Or to put it simply: I hate the thought of a vendor owning my data, or the gover
 
 ###Requirements / Costs
 
+I am quite frugal and would be willing to work on the project (and other duties) for very little. Although, I would need to aquire a couple of items if I were to comit to this for 8 - 12 week. I've broken down the costs below:
+
 | Monthly? | Need? | Cost | What | Reasoning |
 | :---------: | ---: | :--- | :-----: | :----- |
 | yes | yes | $300 | Co-Working Space | I may have access to a co-working space in town. Much better working environment that my cramped bedroom. |
@@ -63,13 +65,12 @@ Or to put it simply: I hate the thought of a vendor owning my data, or the gover
 
 For sharing it in public, I would love to have some completely frivolous items:
 
-(Which I will likely try to procure these on my own anyway)
-
 | Cost | What | Reasoning |
 | :--- | :-----: | :----- |
 | $100 | Hair-dye | Green hair dye to assist with branding - people remember green hair and it attracts attention. |
 | $20 | [marmot hand puppet](http://smile.amazon.com/Folkmanis-3034-Groundhog-Hand-Puppet/dp/B00KWJZHEI/) | A little marmot to act as a mascot. It might end up part cyborg. |
 | $20 | Eris T-shirt | Because swag. |
+
 
 ###Why am I applying to an internship?
 
