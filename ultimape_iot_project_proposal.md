@@ -41,7 +41,7 @@ My motivations for a lot of what I do typically involve three things:
  - Myself: I'm forgetful and want my house to help me do things. 
  - Mars: A robust distributed swarm of automated factories & farms on mars sounds like a cool thing to do.
 
-I'm a big fan of OpenData initiatives and believe strongly in FOSS, Creative Commons, and radical transparency.  All this data we are generating should be given a chance to be free if people want it to be. I do not see IoT (and by extension, the [Quantified Self movement](http://www.brookings.edu/research/reports2/2014/09/cyborg-future-law-policy-implications)) getting traction in the [home market unless we conquer security, privacy, and ease of use concerns](http://a16z.com/2015/01/08/a16z-podcast-the-technology-is-ready-so-where-is-the-internet-of-things/). I see Eris Industries' suite of tools being a key component of this vision. 
+I'm a big fan of OpenData initiatives and believe strongly in FOSS, Creative Commons, and radical transparency.  All this data we are generating should be given a chance to be free if people want it to be. I do not see IoT (and by extension, the [Quantified Self movement](http://www.brookings.edu/research/reports2/2014/09/cyborg-future-law-policy-implications)) getting traction in the home market [unless we conquer security, privacy, and ease of use concerns](http://a16z.com/2015/01/08/a16z-podcast-the-technology-is-ready-so-where-is-the-internet-of-things/). I see Eris Industries' suite of tools being a key component of this vision. 
 
 Or to put it simply: I hate the thought of a vendor owning my data, or the government knowing when I poop.
 
