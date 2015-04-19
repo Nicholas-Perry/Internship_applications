@@ -55,9 +55,9 @@ My wish is to inspire like-minded Makers (& Marmots) to get onboard with IoT and
 
 ###Requirements / Costs
 
-| Reoccuring? | Cost | What | Needed? | Reason |
+| Monthly? | Cost | What | Need? | Reasoning |
 | :---------: | ---: | :--- | :-----: | :----- |
-| no | $200-$400 | Computer (chromebook) | yes | To turn into a [dev-machine]((blog.codestarter.org/post/93985346780/how-we-turn-199-chromebooks-into-ubuntu-based) as  my current laptop is aweful. |
+| no | $200-$400 | Computer (chromebook) | yes | To turn into a [dev-machine](blog.codestarter.org/post/93985346780/how-we-turn-199-chromebooks-into-ubuntu-based) as  my current laptop is aweful. |
 | no | $100-$500 | Embedded Systems | yes | Two (minimum) to six (100% standalone system) embededed linux boxes to create proof-of-concepts.  |
 | no | $130-$300 | A bed | kinda | A futon matress so I don't have to sleep on the floor - to improved prodocutivity. |
 | no | $100 | Hair-dye | no | Green hair dye to assist with branding when showing it in public. |
