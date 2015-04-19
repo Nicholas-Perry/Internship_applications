@@ -2,7 +2,7 @@
 
 ##Project Vulcan [?](http://en.wikipedia.org/wiki/Hephaestus#The_craft_of_Hephaestus)
 
-###A proof-of-concept Internet of Things (IoT) network showcasing Eris Industries' systems. 
+###A Maker oriented proof-of-concept Internet of Things (IoT) network showcasing Eris Industries' systems. 
 
 The main goal of this project is to create a simple monitoring/control website running on top of Eris's Decerver that is able to interact with IoT devices. Eris's blockchain tech will also be used to manage the exchange (transaction) of messages between various sensor, displays, and actuators. The proof-of-concept should allow for a decentralized way to manage a large (and distributed) 'Internet of Things'.
 
@@ -33,6 +33,9 @@ I would be doing regular write-ups on my progress with the goal of helping other
 
 ###Motivations
 
+
+My wish is to inspire like-minded Makers (& Marmots) to get onboard with IoT and blockchain technology. I'd like to see the community working toward a system that makes it simple to get a device hooked up and start sharing in a secure way. 
+
 My motivations for a lot of what I do typically involve three things:
  - My Mother: I want to help my disabled mother to be able to manage parts of her home from her bed.
  - Myself: I'm forgetful and want my house to help me do things. 
@@ -41,8 +44,6 @@ My motivations for a lot of what I do typically involve three things:
 I'm a big fan of OpenData initiatives and believe strongly in FOSS, Creative Commons, and radical transparency.  All this data we are generating should be given a chance to be free if people want it to be. I do not see IoT (and by extension, the [Quantified Self movement](http://www.brookings.edu/research/reports2/2014/09/cyborg-future-law-policy-implications)) getting traction in the [home market unless we conquer security, privacy, and ease of use concerns](http://a16z.com/2015/01/08/a16z-podcast-the-technology-is-ready-so-where-is-the-internet-of-things/). I see Eris Industries' suite of tools being a key component of this vision. 
 
 Or to put it simply: I hate the thought of a vendor owning my data, or the government knowing when I poop.
-
-My wish is to inspire like-minded Makers (& Marmots) to get onboard with IoT and blockchain technology. I'd like to see the community working toward a system that makes it simple to get a device hooked up and start sharing in a secure way. 
 
 
 ###Requirements / Costs
