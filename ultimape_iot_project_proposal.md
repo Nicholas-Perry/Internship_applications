@@ -50,7 +50,7 @@ Or to put it simply: I hate the thought of a vendor owning my data, or the gover
 
 | Monthly? | Need? | Cost | What | Reasoning |
 | :---------: | ---: | :--- | :-----: | :----- |
-| yes | yes | $300 | Co-Working Space | I may have access to a co-working space in town. Much better working environment. |
+| yes | yes | $300 | Co-Working Space | I may have access to a co-working space in town. Much better working environment that my cramped bedroom. |
 | yes | yes | $300 to ??? | Rent | Rent is 1/3 of my income per current living arrangments. |
 | yes | yes | $300 | Food | If I could live off of Soylent, I would. |
 | yes | yes | $20 | Taxables | I need to make sure I have deoderant and other hygiene items.
@@ -62,6 +62,10 @@ Or to put it simply: I hate the thought of a vendor owning my data, or the gover
 | no | kinda | $130 to $300 | A bed | A futon matress so I don't have to sleep on the floor will greatly improve productivity. |
 
 For sharing it in public, I would love to have some completely frivolous items:
+(Which I will likely try to procure these on my own anyway)
+
+| Cost | What | Reasoning |
+| :-----: | :----- |
 | $100 | Hair-dye | Green hair dye to assist with branding - people remember green hair and it attracts attention. |
 | $20 | [marmot hand puppet](http://smile.amazon.com/Folkmanis-3034-Groundhog-Hand-Puppet/dp/B00KWJZHEI/) | A little marmot to act as a mascot. It might end up part cyborg. |
 | $20 | Eris T-shirt | Because swag. |
