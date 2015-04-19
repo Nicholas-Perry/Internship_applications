@@ -1,6 +1,6 @@
 #Nicholas Perry ([@ultimape](https://twitter.com/ultimape))'s Project Proposal:
 
-##Project Vulcan [?](http://en.wikipedia.org/wiki/Hephaestus#The_craft_of_Hephaestus)
+##Project Hephaestus [?](http://en.wikipedia.org/wiki/Hephaestus#The_craft_of_Hephaestus)
 
 ###A Maker oriented proof-of-concept Internet of Things (IoT) network showcasing Eris Industries' systems. 
 
