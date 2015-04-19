@@ -50,19 +50,21 @@ Or to put it simply: I hate the thought of a vendor owning my data, or the gover
 
 | Monthly? | Need? | Cost | What | Reasoning |
 | :---------: | ---: | :--- | :-----: | :----- |
-| no | yes | $200 to $400 | Computer (chromebook) | To turn into a [dev-machine](blog.codestarter.org/post/93985346780/how-we-turn-199-chromebooks-into-ubuntu-based) as my current laptop is aweful. |
-| no | yes | $100 to $500 | Embedded Systems | Two (minimum) to six ( for 100% standalone system) embededed linux boxes to create proof-of-concept system.  |
-| no | kinda | $130 to $300 | A bed | A futon matress so I don't have to sleep on the floor & greatly improve productivity. |
-| no | no | $100 | Hair-dye | Green hair dye to assist with branding when showing it in public. |
-| no | no | $20 | [marmot hand puppet](http://smile.amazon.com/Folkmanis-3034-Groundhog-Hand-Puppet/dp/B00KWJZHEI/) | A little marmot to act as a mascot when showing in public. |
 | yes | yes | $300 | Co-Working Space | I may have access to a co-working space in town. Much better working environment. |
 | yes | yes | $300 to ??? | Rent | Rent is 1/3 of my income per current living arrangments. |
 | yes | yes | $300 | Food | If I could live off of Soylent, I would. |
-| yes | yes | $20 | Taxables | I need to make sure I have deoderant and other hygine items.
+| yes | yes | $20 | Taxables | I need to make sure I have deoderant and other hygiene items.
 | yes | yes | $5 | Student Loans | Hooray, student loans. :/ |
 | yes | maybe | $50 | Travel | Time in Burlington for collaborating with the [local hackerspce](http://laboratoryb.org) would be helpful. |
 | yes | no | $20 | Phone | Currently being covered by my little brother. |
+| no | yes | $200 to $400 | Computer (chromebook) | To turn into a [dev-machine](blog.codestarter.org/post/93985346780/how-we-turn-199-chromebooks-into-ubuntu-based) as my current laptop is awful. |
+| no | yes | $100 to $500 | Embedded Systems | Two (minimum) to six ( for 100% standalone system) embededed linux boxes to create proof-of-concept system.  |
+| no | kinda | $130 to $300 | A bed | A futon matress so I don't have to sleep on the floor will greatly improve productivity. |
 
+For sharing it in public, I would love to have some completely frivolous items:
+| $100 | Hair-dye | Green hair dye to assist with branding - people remember green hair and it attracts attention. |
+| $20 | [marmot hand puppet](http://smile.amazon.com/Folkmanis-3034-Groundhog-Hand-Puppet/dp/B00KWJZHEI/) | A little marmot to act as a mascot. It might end up part cyborg. |
+| $20 | Eris T-shirt | Because swag. |
 
 ###Why am I applying to an internship?
 
