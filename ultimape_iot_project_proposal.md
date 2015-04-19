@@ -69,8 +69,8 @@ Not really a requirement, but I could use some things to help with branding when
 
 | Cost | What | Reasoning |
 | :--- | :-----: | :----- |
-| $100 | Hair-dye | Green hair dye to assist with branding - people remember green hair and it attracts attention. |
-| $20 | [Marmot hand puppet](http://smile.amazon.com/Folkmanis-3034-Groundhog-Hand-Puppet/dp/B00KWJZHEI/) | A little marmot to act as a mascot. It might end up part cyborg. |
+| $100 | Hair-dye | Green hair-dye to assist with branding. People remember green hair and it is useful for attracting attention. |
+| $20 | [Marmot](http://smile.amazon.com/Folkmanis-3034-Groundhog-Hand-Puppet/dp/B00KWJZHEI/) | A little marmot friend to act as a mascot. It might end up part cyborg. |
 | $20 | Eris T-shirt | A black t-shirt would be best as I would be [modifying it](http://www.instructables.com/id/T-shirt-Designs-with-Stencils-and-Bleach/) to go along with the Maker motif. |
 
 
