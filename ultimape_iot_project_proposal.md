@@ -62,6 +62,7 @@ Or to put it simply: I hate the thought of a vendor owning my data, or the gover
 | no | kinda | $130 to $300 | A bed | A futon matress so I don't have to sleep on the floor will greatly improve productivity. |
 
 For sharing it in public, I would love to have some completely frivolous items:
+
 (Which I will likely try to procure these on my own anyway)
 
 | Cost | What | Reasoning |
