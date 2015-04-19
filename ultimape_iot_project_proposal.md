@@ -51,7 +51,7 @@ My wish is to inspire like-minded Makers (& Marmots) to get onboard with IoT and
 | :---------: | ---: | :--- | :-----: | :----- |
 | no | yes | $200 to $400 | Computer (chromebook) | To turn into a [dev-machine](blog.codestarter.org/post/93985346780/how-we-turn-199-chromebooks-into-ubuntu-based) as  my current laptop is aweful. |
 | no | yes | $100 to $500 | Embedded Systems | Two (minimum) to six ( for 100% standalone system) embededed linux boxes to create proof-of-concept system.  |
-| no | kinda | $130 to $300 | A bed | A futon matress so I don't have to sleep on the floor & greatly improved prodocutivity. |
+| no | kinda | $130 to $300 | A bed | A futon matress so I don't have to sleep on the floor & greatly improved productivity. |
 | no | no | $100 | Hair-dye | Green hair dye to assist with branding when showing it in public. |
 | no | no | $20 | [marmot hand puppet](http://smile.amazon.com/Folkmanis-3034-Groundhog-Hand-Puppet/dp/B00KWJZHEI/) | A little marmot to act as a mascot when showing in public. |
 | yes | yes | $300 | Co-Working Space | I may have access to a co-working space in town. Much beter working environment. |
