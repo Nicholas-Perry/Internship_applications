@@ -63,7 +63,7 @@ I am quite frugal and would be willing to work on the project (and other duties)
 | no | yes | $100 to $500 | Embedded Systems | Two (minimum) to six ( for 100% standalone system) embededed linux boxes to create proof-of-concept system.  |
 | no | kinda | $130 to $300 | A bed | A futon matress so I don't have to sleep on the floor will greatly improve productivity. |
 
-###Nice to haves
+###Nice-to-haves
 
 Not really a requirement, but I could use some things to help with branding when sharing the project in public:
 
