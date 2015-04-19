@@ -55,25 +55,20 @@ My wish is to inspire like-minded Makers (& Marmots) to get onboard with IoT and
 
 ###Requirements / Costs
 
-####One Time Costs
-I would need a more functional computer. I believe I could make do with a Chromebook. I would be turning it into a dev machine along the lines of what [@Codestarterorg is doing for students](blog.codestarter.org/post/93985346780/how-we-turn-199-chromebooks-into-ubuntu-based). Prices range from $200-$400 for basic models unless you can get them on sale. For my purposes, the more ram, the better.
-
-I would need a couple of IoT oriented embedded systems. Two would be the minimum for a proof of concept. However I'd love to have a set of six so the system could be self-contained for display. Two would act as IoT devices, three to act as extra nodes for the distributed server host, and one would simulate a 3rd party connection. This would cost anywhere from $100-$500 depending on quantity, model, accessories and shipping costs. This includes components to integrate with hardware I already own.
-
-A bed would be nice and would greatly increase my productivity. I'd be happy with a futon mattress from Walmart/Overstock (only thing comfortable that will fit in my room). Cost ranges from $130-$300 depending on availability.
-
-I estimate it would cost me $100 to get my hair dyed green again, and a [marmot hand puppet](http://smile.amazon.com/Folkmanis-3034-Groundhog-Hand-Puppet/dp/B00KWJZHEI/) would cost $20. Just saying.
-
-####Monthly Reoccurring
-There may be room at a local co-working space, which would run about $300 a month.
-
-My current living arrangement has my rent set at 1/3 of my income. I am not sure if a stipend is counted, so that will need to be factored in.
-
-I can live on $300 a month for food. I could go cheaper, but my current situation leaves me without a lot of storage space and little ability to buy in bulk. I am not sure if I would be able to maintain my food stamps during the internship.
-
-I believe my cellphone plan currently costs my little brother $20 - I'd like to cover that on my own.
-
-Student loan debt collectors pull money out of my bank account each month, but I think it's only $5 right now. 
+| Reoccuring? | Cost | What | Needed? | Reason |
+| :---------: | ---: | :--- | :-----: | :----- |
+| no | $200-$400 | Computer (chromebook) | yes | To turn into a [dev-machine]((blog.codestarter.org/post/93985346780/how-we-turn-199-chromebooks-into-ubuntu-based) as  my current laptop is aweful. |
+| no | $100-$500 | Embedded Systems | yes | Two (minimum) to six (100% standalone system) embededed linux boxes to create proof-of-concepts.  |
+| no | $130-$300 | A bed | kinda | A futon matress so I don't have to sleep on the floor - to improved prodocutivity. |
+| no | $100 | Hair-dye | no | Green hair dye to assist with branding when showing it in public. |
+| no | $20 | [marmot hand puppet](http://smile.amazon.com/Folkmanis-3034-Groundhog-Hand-Puppet/dp/B00KWJZHEI/) | no | A little marmot to act as a mascot when showing in public. |
+| yes | $300 | Co-Working Space | yes | I may have access to a co-working space in town. Much beter working environment. |
+| yes | $300-??? | Rent | yes | Rent is 1/3 of my income per current living arrangments. |
+| yes | $300 | Food | yes | If I could live off of Soylent, I would. |
+| yes | $20 | Taxables | yes | I need to make sure I have deoderant and other hygine items.
+| yes | $5 | Student Loans | yes | Hooray, student loans. :/ |
+| yes | $50 | Travel | maybe | Time in Burlington for collaborating with the [local hackerspce](laboratoryb.org) would be helpful. |
+| yes | $20 | Phone | no | Currently being covered by my little brother. |
 
 
 ###Similar Projects
