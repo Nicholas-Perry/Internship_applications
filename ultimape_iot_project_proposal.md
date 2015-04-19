@@ -55,20 +55,20 @@ My wish is to inspire like-minded Makers (& Marmots) to get onboard with IoT and
 
 ###Requirements / Costs
 
-| Monthly? | Cost | What | Need? | Reasoning |
+| Monthly? | Need? | Cost | What | Reasoning |
 | :---------: | ---: | :--- | :-----: | :----- |
-| no | $200-$400 | Computer (chromebook) | yes | To turn into a [dev-machine](blog.codestarter.org/post/93985346780/how-we-turn-199-chromebooks-into-ubuntu-based) as  my current laptop is aweful. |
-| no | $100-$500 | Embedded Systems | yes | Two (minimum) to six (100% standalone system) embededed linux boxes to create proof-of-concepts.  |
-| no | $130-$300 | A bed | kinda | A futon matress so I don't have to sleep on the floor - to improved prodocutivity. |
-| no | $100 | Hair-dye | no | Green hair dye to assist with branding when showing it in public. |
-| no | $20 | [marmot hand puppet](http://smile.amazon.com/Folkmanis-3034-Groundhog-Hand-Puppet/dp/B00KWJZHEI/) | no | A little marmot to act as a mascot when showing in public. |
-| yes | $300 | Co-Working Space | yes | I may have access to a co-working space in town. Much beter working environment. |
-| yes | $300-??? | Rent | yes | Rent is 1/3 of my income per current living arrangments. |
-| yes | $300 | Food | yes | If I could live off of Soylent, I would. |
-| yes | $20 | Taxables | yes | I need to make sure I have deoderant and other hygine items.
-| yes | $5 | Student Loans | yes | Hooray, student loans. :/ |
-| yes | $50 | Travel | maybe | Time in Burlington for collaborating with the [local hackerspce](laboratoryb.org) would be helpful. |
-| yes | $20 | Phone | no | Currently being covered by my little brother. |
+| no | yes | $200-$400 | Computer (chromebook) | To turn into a [dev-machine](blog.codestarter.org/post/93985346780/how-we-turn-199-chromebooks-into-ubuntu-based) as  my current laptop is aweful. |
+| no | yes | $100-$500 | Embedded Systems | Two (minimum) to six ( for 100% standalone system) embededed linux boxes to create proof-of-concept system.  |
+| no | kinda | $130-$300 | A bed | A futon matress so I don't have to sleep on the floor & greatly improved prodocutivity. |
+| no | no | $100 | Hair-dye | Green hair dye to assist with branding when showing it in public. |
+| no | no | $20 | [marmot hand puppet](http://smile.amazon.com/Folkmanis-3034-Groundhog-Hand-Puppet/dp/B00KWJZHEI/) | A little marmot to act as a mascot when showing in public. |
+| yes | yes | $300 | Co-Working Space | I may have access to a co-working space in town. Much beter working environment. |
+| yes | yes | $300-??? | Rent | Rent is 1/3 of my income per current living arrangments. |
+| yes | yes | $300 | Food | If I could live off of Soylent, I would. |
+| yes | yes | $20 | Taxables | I need to make sure I have deoderant and other hygine items.
+| yes | yes | $5 | Student Loans | Hooray, student loans. :/ |
+| yes | maybe | $50 | Travel | Time in Burlington for collaborating with the [local hackerspce](laboratoryb.org) would be helpful. |
+| yes | no | $20 | Phone | Currently being covered by my little brother. |
 
 
 ###Similar Projects
