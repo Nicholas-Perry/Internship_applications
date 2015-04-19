@@ -59,7 +59,7 @@ My wish is to inspire like-minded Makers (& Marmots) to get onboard with IoT and
 | yes | yes | $300 | Food | If I could live off of Soylent, I would. |
 | yes | yes | $20 | Taxables | I need to make sure I have deoderant and other hygine items.
 | yes | yes | $5 | Student Loans | Hooray, student loans. :/ |
-| yes | maybe | $50 | Travel | Time in Burlington for collaborating with the [local hackerspce](laboratoryb.org) would be helpful. |
+| yes | maybe | $50 | Travel | Time in Burlington for collaborating with the [local hackerspce](http://laboratoryb.org) would be helpful. |
 | yes | no | $20 | Phone | Currently being covered by my little brother. |
 
 
