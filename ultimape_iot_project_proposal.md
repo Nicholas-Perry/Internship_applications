@@ -38,11 +38,29 @@ My motivations for a lot of what I do typically involve three things:
  - Myself: I'm forgetful and want my house to help me do things. 
  - Mars: A robust distributed swarm of automated factories & farms on mars sounds like a cool thing to do.
 
-I'm a big fan of OpenData initiatives and believe strongly in Free Open Source Software, Creative Commons, and Radical Transparency.  All this data we are generating should be given a chance to be free if people want it to be. I do not see IoT (and by extension, the [Quantified Self movement](http://www.brookings.edu/research/reports2/2014/09/cyborg-future-law-policy-implications)) getting big unless we conquer security, privacy, and ease of use concerns. I see Eris Industries' work being a key component of this vision. 
+I'm a big fan of OpenData initiatives and believe strongly in FOSS, Creative Commons, and radical transparency.  All this data we are generating should be given a chance to be free if people want it to be. I do not see IoT (and by extension, the [Quantified Self movement](http://www.brookings.edu/research/reports2/2014/09/cyborg-future-law-policy-implications) getting traction in the [home market unless we conquer security, privacy, and ease of use concerns](http://a16z.com/2015/01/08/a16z-podcast-the-technology-is-ready-so-where-is-the-internet-of-things/). I see Eris Industries' work being a key component of this vision. 
 
 Or to put it simply: I hate the thought of a vendor owning my data, or the government knowing when I poop.
 
 My wish is to inspire like-minded Makers (& Marmots) to get onboard with IoT and blockchain technology. I'd like to see the community working toward a system that makes it simple to get a device hooked up and start sharing in a secure way. 
+
+
+###Requirements / Costs
+
+| Monthly? | Need? | Cost | What | Reasoning |
+| :---------: | ---: | :--- | :-----: | :----- |
+| no | yes | $200 - -$400 | Computer (chromebook) | To turn into a [dev-machine](blog.codestarter.org/post/93985346780/how-we-turn-199-chromebooks-into-ubuntu-based) as  my current laptop is aweful. |
+| no | yes | $100 - $500 | Embedded Systems | Two (minimum) to six ( for 100% standalone system) embededed linux boxes to create proof-of-concept system.  |
+| no | kinda | $130 - $300 | A bed | A futon matress so I don't have to sleep on the floor & greatly improved prodocutivity. |
+| no | no | $100 | Hair-dye | Green hair dye to assist with branding when showing it in public. |
+| no | no | $20 | [marmot hand puppet](http://smile.amazon.com/Folkmanis-3034-Groundhog-Hand-Puppet/dp/B00KWJZHEI/) | A little marmot to act as a mascot when showing in public. |
+| yes | yes | $300 | Co-Working Space | I may have access to a co-working space in town. Much beter working environment. |
+| yes | yes | $300 - ??? | Rent | Rent is 1/3 of my income per current living arrangments. |
+| yes | yes | $300 | Food | If I could live off of Soylent, I would. |
+| yes | yes | $20 | Taxables | I need to make sure I have deoderant and other hygine items.
+| yes | yes | $5 | Student Loans | Hooray, student loans. :/ |
+| yes | maybe | $50 | Travel | Time in Burlington for collaborating with the [local hackerspce](laboratoryb.org) would be helpful. |
+| yes | no | $20 | Phone | Currently being covered by my little brother. |
 
 
 ###Why am I applying to an internship?
@@ -51,24 +69,6 @@ My wish is to inspire like-minded Makers (& Marmots) to get onboard with IoT and
  2. You might be willing to feed me so I can work on it.
  3. [I have no idea what I'm doing](https://twitter.com/ultimape/status/588302547376545793).
  4. I enjoy learning.
-
-
-###Requirements / Costs
-
-| Monthly? | Need? | Cost | What | Reasoning |
-| :---------: | ---: | :--- | :-----: | :----- |
-| no | yes | $200-$400 | Computer (chromebook) | To turn into a [dev-machine](blog.codestarter.org/post/93985346780/how-we-turn-199-chromebooks-into-ubuntu-based) as  my current laptop is aweful. |
-| no | yes | $100-$500 | Embedded Systems | Two (minimum) to six ( for 100% standalone system) embededed linux boxes to create proof-of-concept system.  |
-| no | kinda | $130-$300 | A bed | A futon matress so I don't have to sleep on the floor & greatly improved prodocutivity. |
-| no | no | $100 | Hair-dye | Green hair dye to assist with branding when showing it in public. |
-| no | no | $20 | [marmot hand puppet](http://smile.amazon.com/Folkmanis-3034-Groundhog-Hand-Puppet/dp/B00KWJZHEI/) | A little marmot to act as a mascot when showing in public. |
-| yes | yes | $300 | Co-Working Space | I may have access to a co-working space in town. Much beter working environment. |
-| yes | yes | $300-??? | Rent | Rent is 1/3 of my income per current living arrangments. |
-| yes | yes | $300 | Food | If I could live off of Soylent, I would. |
-| yes | yes | $20 | Taxables | I need to make sure I have deoderant and other hygine items.
-| yes | yes | $5 | Student Loans | Hooray, student loans. :/ |
-| yes | maybe | $50 | Travel | Time in Burlington for collaborating with the [local hackerspce](laboratoryb.org) would be helpful. |
-| yes | no | $20 | Phone | Currently being covered by my little brother. |
 
 
 ###Similar Projects
