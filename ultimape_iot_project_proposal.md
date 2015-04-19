@@ -65,7 +65,7 @@ For sharing it in public, I would love to have some completely frivolous items:
 (Which I will likely try to procure these on my own anyway)
 
 | Cost | What | Reasoning |
-| :-----: | :----- |
+| :--- | :-----: | :----- |
 | $100 | Hair-dye | Green hair dye to assist with branding - people remember green hair and it attracts attention. |
 | $20 | [marmot hand puppet](http://smile.amazon.com/Folkmanis-3034-Groundhog-Hand-Puppet/dp/B00KWJZHEI/) | A little marmot to act as a mascot. It might end up part cyborg. |
 | $20 | Eris T-shirt | Because swag. |
