@@ -18,6 +18,7 @@ The project would leverage Eris based smart contracts to govern five key areas:
  - Management of device meta-data (e.g. hard-coding location data or linking up a GPS subsystem)
  - A system to log/broker data (in bulk?) to 3rd party networks ("peering") optionally paying for data via a bitcoin oracle.
 
+The hope is to adress a number of [concerns involved with securing IoT devices](http://securityaffairs.co/wordpress/34974/cyber-crime/iot-security-symantec.html).
 
 ###Current Direction
 
