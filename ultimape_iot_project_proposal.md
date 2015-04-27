@@ -4,13 +4,13 @@
 
 ###A Maker oriented proof-of-concept Internet of Things (IoT) network showcasing Eris Industries' systems. 
 
-The main goal of this project is to create a simple monitoring/control website running on top of Eris's Decerver that is able to interact with IoT devices. Eris's blockchain & smart contract systems will be used to manage the exchange of messages between various sensors, displays, and actuators. The proof-of-concept should allow for a decentralized way to manage a large (and distributed) 'Internet of Things'.
+The main goal of this project is to create a simple monitoring/control website running on top of [Eris's Decerver](https://decerver.io/) that is able to interact with IoT devices. [Eris's blockchain](https://thelonious.io/) & smart contract systems will be used to manage the exchange of messages between various sensors, displays, and actuators. The proof-of-concept should allow for a decentralized way to manage a large (and distributed) 'Internet of Things'.
 
 The project is a security minded modernization of my senior project team's '[smartHAuS](https://docs.google.com/presentation/d/1tgCkLdP88__5RmmTR4XizIDXYIWXTe-LuWtThk_1CRc/edit?usp=sharing)' originating out of my degree work at Vermont Technical College. I will also be taking heavy influence from a subsequent project I was developing at Praetor Labs internally known as [Shardonnay](https://workflowy.com/s/493ab350-f171-d9c0-6ef1-f50c68ca65a6). It ended up having a distributed resource model as our primary goal. While we were using [a cluster of ShuttlePCs](http://imgur.com/u31YJHO) at the time, small form factor embedded devices was our target platform.
 
 Like my senior project's goal, the hope is to have the system be painless to setup for a hypothetical tech illiterate home-user (a.k.a. my dad).
 
-The project would leverage Eris based smart contracts to govern five key areas:
+The project would leverage smart contracts to govern five key areas:
 
  - Ownership of a device (may be exchanged between users)
  - Assignment of access rights to various components on a device (read, write, modify-permissions, etc.)
@@ -18,15 +18,14 @@ The project would leverage Eris based smart contracts to govern five key areas:
  - Management of device meta-data (e.g. hard-coding location data or linking up a GPS subsystem)
  - A system to log/broker data (in bulk?) to 3rd party networks ("peering") optionally paying for data via a bitcoin oracle.
 
-The hope is to adress a number of [concerns involved with securing IoT devices](http://www.symantec.com/connect/blogs/iot-smart-home-giving-away-keys-your-kingdom).
+The hope is to address a number of [concerns involved with securing IoT devices](http://www.symantec.com/connect/blogs/iot-smart-home-giving-away-keys-your-kingdom).
 
 
 ###Current Direction
 
-My plan is to target popular embedded linux platorms such as Beaglebone Black and/or Raspberry Pi devices running Ubuntu-core (and Debian). I may also include service mocks running on VMs and (time permitting) integration with less powerful Arduino compatible devices such as my collection of [Spark Cores](http://www.spark.io/prototype#spark-core). The system would include a small sample of IoT style usecases and creation of Maker-friendly set of APIs. 
+My plan is to target popular embedded linux platorms such as Beaglebone Black and/or Raspberry Pi. I plan to work against popular industrial operating systems such as Ubuntu-core/Debian. I may also include service mocks running on VMs and (time permitting) integration with less powerful Arduino compatible devices such as my collection of [Spark Cores](http://www.spark.io/prototype#spark-core). The project would include a small sample of IoT style use cases and the creation of a Maker-friendly set of APIs. 
 
-To make onboarding simple, I'm hoping to model user accounts and access rights after Unix style permissions & have devices linked to the OS's file system. An agent service with SUDO access would be used to modify the permissions in response to changes on the blockchain, and a [insert federated login system] will be used to bootstrap account surrogates. Access to components would likewise be enforced through a series daemons and named pipes (or similar mechanisms), leveraging preexisting OS security models. Effectively, these micro-servers will act slaves to the smart-contracts run on the blockchain. 
-
+To make onboarding simple, I'm hoping to model accounts and access rights after Unix style permissions & link devices to the OS's file system. An agent service with SUDO access would be used to modify the permissions in response to changes on the blockchain, and a [insert federated login system] would be used to bootstrap account surrogates. Access to components would likewise be enforced through a series of daemons and named pipes (or similar mechanisms), thus taking advantage of preexisting OS security model. Effectively, these micro-servers will act slaves to the smart-contracts run on the blockchain. 
 Device to device communication and data encryption - while interesting - are likely beyond the scope of this project, however an effort will be made to ensure it is solution agnostic. I intend to create a quick and dirty SSH based system depending on how the federated logins end up working. 
 
 I would be doing regular write-ups on my progress with the goal of helping others to follow a similar journey. I would like to publish everything online via an appropriate FOSS license, including documentation. I am also willing to do online talks and other promotional work as needed.
@@ -63,6 +62,7 @@ I am quite frugal and would be able & willing to work on the project (and other 
 | no | yes | $200 to $400 | Computer (chromebook) | To turn into a [dev-machine](blog.codestarter.org/post/93985346780/how-we-turn-199-chromebooks-into-ubuntu-based) as my current laptop is awful. |
 | no | yes | $100 to $500 | Embedded Systems | Two (minimum) to six (for 100% standalone system) embededed linux boxes to create proof-of-concept system.  |
 | no | kinda | $130 to $300 | A bed | A futon matress so I don't have to sleep on the floor will greatly improve productivity. |
+
 
 ###Nice-to-haves
 
