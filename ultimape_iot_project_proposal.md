@@ -90,7 +90,8 @@ Not really a requirement, but I could use some things to help with branding when
 
 For similar projects in this space, refer to:
 
- - [@IBMIBV's ADEPT protocol](http://www.coindesk.com/ibm-reveals-proof-concept-blockchain-powered-internet-things/) - a yet to be finalized protocol proposal discussing a number of concerns. [Archive.org copy](https://archive.org/details/pdfy-esMcC00dKmdo53-_)
+ - [@IBMIBV's ADEPT protocol](http://www.coindesk.com/ibm-reveals-proof-concept-blockchain-powered-internet-things/) - a yet to be finalized protocol proposal discussing a number of concerns.
+  - [Archive.org copy of december 2014 draft](https://archive.org/details/pdfy-esMcC00dKmdo53-_)
   - See a [demo at CES 2015](https://www.theprotocol.tv/adept-demo-ibm-samsung/).
 
  - [@Startstarad's TilePay ](https://twitter.com/Startstarad/status/578425604753747968) a management ĐApp.
