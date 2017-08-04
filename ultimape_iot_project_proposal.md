@@ -1,8 +1,8 @@
-#Nicholas Perry ([@ultimape](https://twitter.com/ultimape))'s Project Proposal:
+# Nicholas Perry ([@ultimape](https://twitter.com/ultimape))'s Project Proposal:
 
-##Project Hephaestus [?](http://en.wikipedia.org/wiki/Hephaestus#The_craft_of_Hephaestus)
+## Project Hephaestus [?](http://en.wikipedia.org/wiki/Hephaestus#The_craft_of_Hephaestus)
 
-###A Maker oriented proof-of-concept Internet of Things (IoT) network showcasing Eris Industries' systems. 
+### A Maker oriented proof-of-concept Internet of Things (IoT) network showcasing Eris Industries' systems. 
 
 The main goal of this project is to create a simple monitoring/control website running on top of Eris's Decerver that is able to interact with IoT devices. Eris's blockchain & smart contract systems will be used to manage the exchange of messages between various sensors, displays, and actuators. The proof-of-concept should allow for a decentralized way to manage a large (and distributed) 'Internet of Things'.
 
@@ -21,7 +21,7 @@ The project would leverage Eris based smart contracts to govern five key areas:
 The hope is to adress a number of [concerns involved with securing IoT devices](http://www.symantec.com/connect/blogs/iot-smart-home-giving-away-keys-your-kingdom).
 
 
-###Current Direction
+### Current Direction
 
 My plan is to target popular embedded linux platorms such as Beaglebone Black and/or Raspberry Pi devices running Ubuntu-core (and Debian). I may also include service mocks running on VMs and (time permitting) integration with less powerful Arduino compatible devices such as my collection of [Spark Cores](http://www.spark.io/prototype#spark-core). The system would include a small sample of IoT style usecases and creation of Maker-friendly set of APIs. 
 
@@ -33,7 +33,7 @@ I would be doing regular write-ups on my progress with the goal of helping other
 
 ----
 
-###Motivations
+### Motivations
 
 My wish is to inspire like-minded Makers (& Marmots) to get onboard with IoT and blockchain technology. I'd like to see the community working toward a system that makes it simple to get a device hooked up and start sharing in a secure way. 
 
@@ -47,7 +47,7 @@ I'm a big fan of OpenData initiatives and believe strongly in FOSS, Creative Com
 Or to put it simply: I hate the thought of a vendor owning my data, or some arm of the government [snooping on when I poop](http://blog.lumension.com/7291/beware-of-the-crapper-hacker/).
 
 
-###Requirements / Costs
+### Requirements / Costs
 
 I am quite frugal and would be able & willing to work on the project (and other duties) for very little cost. Due to circumstances, I would need assistance to aquire a couple of items if I were to commit to this for 8 - 12 week. I've broken down the rough costs below:
 
@@ -64,7 +64,7 @@ I am quite frugal and would be able & willing to work on the project (and other 
 | no | yes | $100 to $500 | Embedded Systems | Two (minimum) to six (for 100% standalone system) embededed linux boxes to create proof-of-concept system.  |
 | no | kinda | $130 to $300 | A bed | A futon matress so I don't have to sleep on the floor will greatly improve productivity. |
 
-###Nice-to-haves
+### Nice-to-haves
 
 Not really a requirement, but I could use some things to help with branding when sharing the project in public:
 
@@ -75,7 +75,7 @@ Not really a requirement, but I could use some things to help with branding when
 | $20 | Eris Tshirt | A black t-shirt would be best as I would be [modifying it](http://www.instructables.com/id/T-shirt-Designs-with-Stencils-and-Bleach/) to go along with the Maker motif. |
 
 
-###Why am I applying to an internship?
+### Why am I applying to an internship?
 
  1. I love this stuff.
  2. You might be willing to feed me so I can work on it.
@@ -86,7 +86,7 @@ Not really a requirement, but I could use some things to help with branding when
  7. [Proof of Cuddle](https://twitter.com/hashtag/proofofcuddle) should be a thing.
 
 
-###Similar Projects
+### Similar Projects
 
 For similar projects in this space, refer to:
 
